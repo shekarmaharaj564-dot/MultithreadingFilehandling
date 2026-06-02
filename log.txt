@@ -1,0 +1,24 @@
+File Name : src/input3.txt
+Lines : 2
+Words : 6
+--------------------------------
+File Name : src/input1.txt
+Lines : 2
+Words : 6
+--------------------------------
+File Name : src/input2.txt
+Lines : 2
+Words : 6
+--------------------------------
+File Name : src/input2.txt
+Lines : 2
+Words : 6
+--------------------------------
+File Name : src/input1.txt
+Lines : 2
+Words : 6
+--------------------------------
+File Name : src/input3.txt
+Lines : 2
+Words : 6
+--------------------------------

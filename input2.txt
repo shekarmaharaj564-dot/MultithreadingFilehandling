@@ -1,0 +1,2 @@
+BufferedReader reads files.
+BufferedWriter writes files.
